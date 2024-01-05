@@ -6,7 +6,8 @@
 
 </head>
 <body>
-  <h1>Hotel Booking System</h1>
+  <h1>BookEase </h1>
+  A Seamless Booking Experience. (Desktop Application)
 
   <p>This is a Hotel Booking System project developed using Java, HTML, CSS, and MySQL.</p>
 
